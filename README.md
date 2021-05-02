@@ -31,6 +31,7 @@ I like building, breaking and exploring things.
 <img src="https://cdn.svgporn.com/logos/homebrew.svg" alt="Homebrew" width="48" height="48">
 <img src="https://cdn.svgporn.com/logos/yarn.svg" alt="yarn" width="48" height="48">
 <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="48" height="48">
+<img src="https://cdn.svgporn.com/logos/npm-icon.svg" width="48" height="48">
 <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSC" width="48" height="48">
 <img src="https://cdn.svgporn.com/logos/raspberry-pi.svg" width="48" height="48">
 <img src="https://cdn.svgporn.com/logos/bash-icon.svg" alt="bash" width="48" height="48">
