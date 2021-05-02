@@ -39,5 +39,3 @@ I like building, breaking and exploring things.
 <img src="https://cdn.svgporn.com/logos/python.svg" alt="python" width="48" height="48">
 <img src="./assests/macOS.svg" alt="macOS" width="48" height="48">
 </div>
-
-<img src="https://readme-banner.vercel.app/banner.svg" />
