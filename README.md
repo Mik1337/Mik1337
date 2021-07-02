@@ -1,25 +1,15 @@
-<div align="center">
-    <p align="center">
-    <a href="https://mik1337.github.io">
-      <img src="./assests/Mik.png" alt="retro banner" height="100%"/>
-      </a>
-    </p>
-</div>
+# ✨henlo✨
+I like building😔 , breaking😓 and 👁exploring👁 things.
 
-# Welcome to my retro-ish page
-
-I like building, breaking and exploring things.
+I also think you reacted to that line with a certain amount cringe and disrespect that i expected you to react with, thereby you have fallen for the oldest trick in the book! You are mine to control now. **NOW, Repeat after me 2+2=5/**.
 
 ## Here's some stats about me
+<img height="300" align="right" src="./assests/breathe.svg"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mik1337&?&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mik1337&show_icons=true&theme=tokyonight" alt="my GitHub stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mik1337&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
-    </p>
-</div>
-
-<div align="center">
-<img src="./assests/breathe.svg" />
 <p>~ power by ~</p>
 <img src="./assests/nextjs-icon.svg" alt="Next.js" width="48" height="48" >
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48" height="48">
