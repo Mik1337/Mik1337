@@ -1,10 +1,10 @@
 # ✨henlo✨
 I like building😔 , breaking😓 and 👁exploring👁 things.
 
-I also think you reacted to that line with a certain amount cringe and disrespect that i expected you to react with, thereby you have fallen for the oldest trick in the book! You are mine to control now. **NOW, Repeat after me 2+2=5/**.
+I also think you reacted to that line with a certain amount of cringe and disrespect that I expected you to respond with, and in doing so, you have fallen for the oldest trick in the book! You are mine to control now. **NOW, repeat after me 2+2=5**.
 
-## Here's some stats about me
-<img height="300" align="right" src="./assests/breathe.svg"/>
+## Obligatory Language Stats
+<img height="300" align="right" alt="breath" src="./assests/breathe.svg"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mik1337&?&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
