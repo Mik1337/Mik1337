@@ -1,10 +1,7 @@
 # ✨ henlo ✨
-I like building😔 , breaking😓 and 👁exploring👁 things.
+I like building, breaking, and exploring things.
 
-I also think you reacted to that intro line with a certain amount of cringe and disrespect which... I expected ¬‿¬, and in doing so, you have fallen for the oldest trick in the book! You are now mine to control!
-
-**Repeat after me 2+2=5**.
-
+[Wordle enthusiast.](https://twitter.com/AvocadoMik/status/1487532072529195008?s=20&t=IIo_7WJmOMQ8ELhUZgQc_g)
 ## Obligatory Language Stats
 <div align="center">
     <p align="center">
