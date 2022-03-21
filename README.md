@@ -5,9 +5,13 @@ I like building, breaking, and exploring things.
 ## Obligatory Language Stats
 <div align="center">
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mik1337&?&hide=jupyter%20notebook&theme=tokyonight" aligh="left" alt="Top Languages"/>&nbsp;<img src="./assests/breathe.svg" alt="breath" aligh="right" width="300" height="300">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mik1337&?&hide=jupyter%20notebook&theme=tokyonight" aligh="left" alt="Top Languages"/>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Mik1337&theme=tokyonight&date_format=%5BY%20%5DM%20j" alt="GitHub contribution streaks"/>
     </p>
 </div>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mik1337)  
+
+<!-- ![GitHub metrics](https://metrics.lecoq.io/Mik1337)   -->
 
 <div align="center">
 <p>~ power by ~</p>
