@@ -2,6 +2,8 @@
 I like building, breaking, and exploring things.
 
 [Wordle enthusiast.](https://twitter.com/AvocadoMik/status/1487532072529195008?s=20&t=IIo_7WJmOMQ8ELhUZgQc_g)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mik1337&color=blueviolet&style=for-the-badge&label=PROFILE+UwUs)
 ## Obligatory Language Stats
 <div align="center">
     <p align="center">
