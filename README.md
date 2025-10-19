@@ -5,3 +5,10 @@ Currenly building cool stuff over at [northofzero.dev](https://www.northofzero.d
 
 ---
 website: [mik.sh](https://mik.sh)
+
+---
+random projects i built
+
+- [Whatsapp Me Direct](https://wame.direct)
+- [Drive Link Embed](fun.mik.sh/drive-link-embed)
+- [Tools for a 9 to 5 job](https://9to5.tools)
