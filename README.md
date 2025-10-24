@@ -10,5 +10,5 @@ website: [mik.sh](https://mik.sh)
 random projects i built
 
 - [Whatsapp Me Direct](https://wame.direct)
-- [Drive Link Embed](fun.mik.sh/drive-link-embed)
+- [Drive Link Embed](https://fun.mik.sh/drive-link-embed)
 - [Tools for a 9 to 5 job](https://9to5.tools)
